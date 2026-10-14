@@ -1,0 +1,6 @@
+{
+  "name": "Jamal Precision Tech",
+  "description": "Enterprise B2B wholesale platform for Jamal Precision Tech (JPT) - Premium mobile display & screen wholesale supply in Hall Road, Lahore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jamal Precision Tech</string>
+    <string name="brand_subtitle">Mobile Display Wholesale</string>
+    <string name="proprietor_title">Muhammad Jamal (Proprietor)</string>
+    <string name="hq_location">Hall Road, Lahore, Pakistan</string>
+    <string name="phone_number">0370-0357848</string>
+    <string name="phone_international">+92 370 0357848</string>
+    <string name="email_address">jpt.official@gmail.com</string>
+    <string name="social_handle">@JPT_OFFICIAL_</string>
+</resources>
